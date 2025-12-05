@@ -67,5 +67,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="img-small">', unsafe_allow_html=True)
-st.image("Z:/BUT3/Data viz/RATP.png")
+st.image("RATP.png")
 st.markdown("</div>", unsafe_allow_html=True)
+
